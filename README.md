@@ -21,9 +21,9 @@
 A high-performance, modular PyTorch implementation of next-item prediction models (`SASRec`, `GRU4Rec`, `Caser`). Optimized for sequence tokenization, batch-vectorized matrix metric computations, and custom ranking metrics.
 * **Tech:** PyTorch, Python, NumPy, YAML, Matrix Optimizations.
 
-### 🌐 [Project Two Name]
-A short, one-sentence high-impact description of your next best repository or system architecture.
-* **Tech:** Tech1, Tech2, Tech3
+### 🗼 [Two-Tower Neural Retrieval System](https://github.com/LukeshPawar/two-tower-rec-sys)
+A high-throughput Dual-Encoder (Two-Tower) recommendation engine built for real-time candidate generation, mapping asynchronous user and item features into a shared embedding space for sub-millisecond similarity search.
+* **Tech:** PyTorch, FAISS (Vector Search), Negative Sampling, Deep Learning, Embeddings.
 
 ---
 
@@ -38,6 +38,6 @@ A short, one-sentence high-impact description of your next best repository or sy
 
 ## 📫 Let's Connect!
 
-* **LinkedIn:** [/in/your-username](https://linkedin.com/in/your-username)
-* **Email:** `your.email@example.com`
-* **Portfolio Website:** [yourwebsite.com](https://yourwebsite.com)
+* **LinkedIn:**  https://www.linkedin.com/in/lukesh-pawar-4b7853363/
+* **Email:** lukesh.gusknp2022@gmail,com
+* **Portfolio Website:**  https://lukesh-portfolio.onrender.com/
