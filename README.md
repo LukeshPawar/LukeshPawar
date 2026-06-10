@@ -1,4 +1,4 @@
-# Hi, I'm Lukesh Pawar! 🚀 
+# Hi, I'm Lukesh Pawar! 
 
 > **Machine Learning Engineer & Software Developer** > Focusing on high-performance architectures, data dynamics, and deep learning systems.
 
